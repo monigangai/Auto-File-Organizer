@@ -1,6 +1,6 @@
 # # # # Project Name : Auto File Organization
-# # # # Name : Awadhesh Gupta
-# # # # Enrollment No. : 20SOECE11095
+# # # # Name : Moni kumari singh
+# # # # Enrollment No. : 20SOECE11123
 # # # # Class : 3CEC
 
 import os, shutil
